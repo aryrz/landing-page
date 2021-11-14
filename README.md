@@ -1,1 +1,1 @@
-# Tugas Example landing page
+# Example page for docker
